@@ -1,2 +1,2 @@
 # SimpleModuleBundler
-A simple js module bundle
+A simple js module bundler
