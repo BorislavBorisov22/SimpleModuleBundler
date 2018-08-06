@@ -1,5 +1,3 @@
-import { name } from './name';
+import { name } from './name.js';
 
-export default {
-    message: `Hello, ${name}`
-}
+export default `Hello, ${name}`;
